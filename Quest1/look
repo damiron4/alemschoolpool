@@ -1,0 +1,1 @@
+find .  -name '[za!]' -o  -name 'a*' -o -name '*z' -o -name '[za!]*[za!]' 
